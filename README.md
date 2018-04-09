@@ -1,0 +1,1 @@
+Write Applescripts to maximize, hide and quit a specified app, should work for Chrome, Firefox, Safari and Opera. Each of the operations can be a separate script. Also write a script to close all open windows (including alerts) and quit all open Applications
